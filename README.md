@@ -1,6 +1,6 @@
 # Predictive analysis of Bitcoin price considering social sentiments.
 
-**ABSTRACT**
+# ABSTRACT
 
 We report on the use of sentiment analysis on news and social media to analyze and predict the price of
 Bitcoin. Bitcoin is the leading cryptocurrency and has the highest market capitalization among digital
@@ -19,7 +19,7 @@ Bitcoin · Bitcoin price prediction · Cryptocurrency · Blockchain · Machine l
 Long short-term memory (LSTM) · Gated recurrent unit (GRU) · Convolution neural network (CNN) · Sentiment
 analysis.
 
-**Introduction**
+# Introduction
 
 Bitcoin has sparked a gigantic interest in cryptocurrency and blockchain technology. Since the inception of Bitcoin,
 cryptocurrency has gained the trust of the general population. Bitcoin has achieved the highest market capitalization
@@ -37,9 +37,15 @@ messages posted on Reddit to predict the Bitcoin price movement. Along with sent
 price and volume of Litecoin and Ethereum. We have trained various machine learning models to learn about the
 correlation between all these features and results are analyzed
 
+# Overall Goal
 
-#
-**Note**
+<img src="https://github.com/pratikpv/predicting_bitcoin_market/blob/master/images/model_arch.png" width=70% height=90%>
+
+# Results for best performing model (Expriment# 4)
+
+<img src="https://github.com/pratikpv/predicting_bitcoin_market/blob/master/images/expr4_results.png" width=70% height=90%>
+
+# Note
 
 Please cite my paper https://arxiv.org/abs/2001.10343 if you want to use the code posted in this repository or any code referenced by this code-base and authored by me.
 
