@@ -62,4 +62,9 @@ Please cite my paper https://arxiv.org/abs/2001.10343 if you want to use the cod
     primaryClass={cs.IR}
 }
 ```
-#
+# Other dependent repositories to generate dataset via web-crawling
+
+1. https://github.com/pratikpv/reddit_scraper_and_sentiment_analyzer
+2. https://github.com/pratikpv/google_news_scraper_and_sentiment_analyzer
+3. https://github.com/pratikpv/cryptocurrency_data_downloader
+
